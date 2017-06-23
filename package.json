@@ -1,7 +1,7 @@
 {
-  "name": "mark-syntax",
-  "theme": "syntax",
-  "version": "0.0.0",
+  "name": "one-mark-syntax",
+  "theme": "One Mark syntax",
+  "version": "1.0.0",
   "description": "A short description of your syntax theme",
   "keywords": [
     "syntax",
